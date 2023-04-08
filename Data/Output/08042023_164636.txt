@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n\nRespuesta: [{\"id\":1, \"Opcion\":\"Explorar el desierto\", \"tipo\":\"explorar\"}, \n            {\"id\":2, \"Opcion\":\"Enfrentarse a una criatura del desierto\", \"tipo\":\"combate\"}, \n            {\"id\":3, \"Opcion\":\"Buscar una ciudad cercana\", \"tipo\":\"explorar\"},\n            {\"id\":4, \"Opcion\":\"Buscar una fuente de agua\", \"tipo\":\"explorar\"}]"
+    }
+  ],
+  "created": 1680965192,
+  "id": "cmpl-7347kzzraZ2LXrq66ZYVZS9vjxXDC",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 322,
+    "total_tokens": 455
+  }
+}

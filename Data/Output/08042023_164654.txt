@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "?\n\nSi eliges explorar el desierto, tendr\u00e1s la oportunidad de recorrer el desierto y descubrir sus maravillas. Tendr\u00e1s la oportunidad de ver algunas de las formaciones geol\u00f3gicas m\u00e1s impresionantes del mundo, como dunas, caminos arenosos, oasis y mucho m\u00e1s. Adem\u00e1s, tendr\u00e1s la oportunidad de ver toda la fauna y flora que el desierto tiene para ofrecerte."
+    }
+  ],
+  "created": 1680965209,
+  "id": "cmpl-73481DcxLafT2pZfM7TZkc2p3ylwv",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 20,
+    "total_tokens": 145
+  }
+}

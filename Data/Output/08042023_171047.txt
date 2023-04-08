@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nZackfair, el joven gnomo, sali\u00f3 de su hogar en el Bosque Encantado con la intenci\u00f3n de conocer el mundo. Con su fuerza, destreza e inteligencia, Zackfair pronto se encontr\u00f3 en el Monta\u00f1as de Fuego, un lugar peligroso y lleno de retos. Despu\u00e9s de superar muchos desaf\u00edos, Zackfair emprendi\u00f3 su camino hacia las Cavernas Oscuras. All\u00ed, se encontr\u00f3 con una criatura que le dio una misi\u00f3n: encontrar la Ciudad Perdida. Zackfair se aventur\u00f3 en el Desierto Infinito para completar su misi\u00f3n. Finalmente, Zackfair encontr\u00f3 la Ciudad Perdida y descubri\u00f3 un tesoro que le ayud\u00f3 a regresar a su hogar con una nueva comprensi\u00f3n del mundo."
+    }
+  ],
+  "created": 1680966640,
+  "id": "cmpl-734V6Xdpl1EdVWkvJxcrQ3XNMNVEp",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 230,
+    "prompt_tokens": 244,
+    "total_tokens": 474
+  }
+}

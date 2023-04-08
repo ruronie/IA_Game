@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuronie, el enano, estaba buscando aventura en las Cavernas Oscuras. Con su fuerza, destreza e inteligencia iguales, se aventur\u00f3 a descubrir lo que se encontraba en ese lugar. Despu\u00e9s de horas de exploraci\u00f3n, se encontr\u00f3 con una criatura tenebrosa que parec\u00eda ser el guardi\u00e1n de un tesoro. Ruronie decidi\u00f3 luchar contra \u00e9l para obtener el tesoro, y despu\u00e9s de una dura batalla, logr\u00f3 vencerlo. Con el tesoro en su poder, Ruronie sali\u00f3 de las Cavernas Oscuras con el coraz\u00f3n lleno de alegr\u00eda."
+    }
+  ],
+  "created": 1680962241,
+  "id": "cmpl-733M96wnctxd0d7Xj3t5UdvDOnhrt",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 250,
+    "total_tokens": 432
+  }
+}

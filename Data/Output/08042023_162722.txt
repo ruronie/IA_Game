@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuronie, el elfo, se encontraba en las Cavernas Oscuras cuando escuch\u00f3 una voz a su alrededor. \"\u00a1Un nuevo h\u00e9roe ha llegado!\", dec\u00eda. Se dio cuenta de que era una invitaci\u00f3n para una aventura. Se embarc\u00f3 en un viaje al Bosque Encantado, a trav\u00e9s de las Monta\u00f1as de Fuego, para descubrir la Ciudad Perdida. Con su fuerza, destreza e inteligencia, luch\u00f3 contra todas las criaturas tenebrosas que encontr\u00f3 en su camino. Finalmente, lleg\u00f3 a la Ciudad Perdida, donde descubri\u00f3 un tesoro incre\u00edble. Con el tesoro, regres\u00f3 a las Cavernas Oscuras y se dirigi\u00f3 al Desierto Infinito para comenzar su siguiente aventura."
+    }
+  ],
+  "created": 1680964035,
+  "id": "cmpl-733p5HYEER5wnDvsbmbrP9zQrnJbV",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 228,
+    "prompt_tokens": 250,
+    "total_tokens": 478
+  }
+}

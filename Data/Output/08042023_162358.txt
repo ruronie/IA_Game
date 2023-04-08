@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuben, un enano de fuerza, destreza e inteligencia promedio, se encontraba en el Desierto Infinito. Estaba buscando una forma de llegar a la Ciudad Perdida, un lugar leyenda que conten\u00eda un tesoro incre\u00edble. Mientras caminaba por el desierto, se top\u00f3 con un grupo de orcos. Estaban discutiendo sobre un tesoro que hab\u00edan encontrado en las Monta\u00f1as de Fuego. Ruben decidi\u00f3 seguirlos para averiguar m\u00e1s.\n\nTras horas de caminata, llegaron a una cueva en las Monta\u00f1as de Fuego. Los orcos se adentraron en la cueva, pero Ruben decidi\u00f3 esperar afuera. De repente, un elfo sali\u00f3 de la cueva. El elfo le cont\u00f3 a Ruben que hab\u00eda un portal m\u00e1gico que llevar\u00eda a la Ciudad Perdida dentro de la cueva.\n\nRuben se adentr\u00f3 en la cueva, esquivando a los orcos. Finalmente encontr\u00f3 el portal y se adentr\u00f3 en \u00e9l. Se encontr\u00f3 en la Ciudad Perdida, donde descubri\u00f3 el tesoro que hab\u00eda estado buscando. Ruben hab\u00eda logrado su objetivo y, gracias a su astucia, hab\u00eda ganado una gran recompensa."
+    }
+  ],
+  "created": 1680963828,
+  "id": "cmpl-733lkMrZxJT8fvAlju69X3coJsosW",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 371,
+    "prompt_tokens": 246,
+    "total_tokens": 617
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "?\n\nSi eliges encontrar una criatura para combatir, tendr\u00e1s que encontrar una criatura adecuada para el combate. Esto podr\u00eda significar buscar una criatura con habilidades o caracter\u00edsticas espec\u00edficas para ayudarte en la batalla. Tambi\u00e9n tendr\u00e1s que determinar cu\u00e1l de tus habilidades puedes usar para enfrentar a tu oponente. Esto significa que tendr\u00e1s que considerar tu posici\u00f3n, tus habilidades y el estado de tu oponente para encontrar la mejor manera de vencerlo."
+    }
+  ],
+  "created": 1680967392,
+  "id": "cmpl-734hEMun6lijVR8H3RlZWjjkJN0Y8",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 25,
+    "total_tokens": 188
+  }
+}

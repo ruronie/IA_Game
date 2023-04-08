@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n\nRespuesta:\n[\n    {\"id\": 1, \"Opcion\": \"Explorar la ciudad\", \"tipo\": \"explorar\"},\n    {\"id\": 2, \"Opcion\": \"Investigar los antiguos secretos\", \"tipo\": \"explorar\"},\n    {\"id\": 3, \"Opcion\": \"Enfrentarse a los guardianes de la ciudad\", \"tipo\": \"combate\"}\n]"
+    }
+  ],
+  "created": 1680968561,
+  "id": "cmpl-73505roJHY62L0XXa4cdbee7ONdr0",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 323,
+    "total_tokens": 433
+  }
+}

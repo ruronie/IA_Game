@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n        {\"resultado\": \"Buscando informaci\u00f3n de la zona\", \"objeto_encontrado\": {}}"
+    }
+  ],
+  "created": 1680968801,
+  "id": "cmpl-7353xYJpHnELoauud2rIpavlLyxx0",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 171,
+    "total_tokens": 200
+  }
+}

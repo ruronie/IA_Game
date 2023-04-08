@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n3 era un orco con una fuerza y destreza incre\u00edbles, pero su inteligencia era su mayor arma. El hab\u00eda elegido el Desierto Infinito como su hogar. Un lugar donde los peligros y la magia eran comunes. 3 se hab\u00eda ganado una reputaci\u00f3n como un aventurero imparable. Un d\u00eda, se embarc\u00f3 en una misi\u00f3n para encontrar un antiguo tesoro oculto en las profundidades de una de las cavernas oscuras. Despu\u00e9s de muchas pruebas y desaf\u00edos, 3 encontr\u00f3 el tesoro y regres\u00f3 a su hogar con una gran fortuna. El hab\u00eda logrado lo que parec\u00eda imposible."
+    }
+  ],
+  "created": 1680964266,
+  "id": "cmpl-733soc89Bd5zNcwKR4N5ek7pLWEIC",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 245,
+    "total_tokens": 439
+  }
+}

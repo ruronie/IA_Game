@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuben, un humano con habilidades promedio, lleg\u00f3 al Bosque Encantado en busca de aventuras. Se encontr\u00f3 con elfos, enanos, orcos y gnomos, y todos le dieron la bienvenida. Se embarc\u00f3 en una misi\u00f3n para descubrir los secretos de la zona y detener a los villanos que la acechaban. Durante su viaje, Ruben se encontr\u00f3 con peligrosas criaturas y magia antigua, pero tambi\u00e9n con nuevos amigos. Finalmente, logr\u00f3 cumplir con su objetivo y salvar el Bosque Encantado."
+    }
+  ],
+  "created": 1680968748,
+  "id": "cmpl-73536ljPqHHsHIL3Cowsc038xKU1x",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 243,
+    "total_tokens": 411
+  }
+}

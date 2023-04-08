@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n            Respuesta:\n            [\n                {\"id\": 1, \"Opcion\": \"Explorar el bosque\", \"tipo\": \"explorar\"},\n                {\"id\": 2, \"Opcion\": \"Buscar aventuras\", \"tipo\": \"combate\"},\n                {\"id\": 3, \"Opcion\": \"Buscar informaci\u00f3n sobre la zona\", \"tipo\": \"explorar\"},\n                {\"id\": 4, \"Opcion\": \"Hablar con los habitantes del bosque\", \"tipo\": \"explorar\"},\n                {\"id\": 5, \"Opcion\": \"Esconderse de los peligros\", \"tipo\": \"explorar\"}\n            ]"
+    }
+  ],
+  "created": 1680968756,
+  "id": "cmpl-7353E3I6vAe2wZ4yG3RX8IpZ6FcOK",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 317,
+    "total_tokens": 482
+  }
+}

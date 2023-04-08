@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuronie, un humano con fuerza, destreza e inteligencia medias, se adentr\u00f3 en la Ciudad Perdida en busca de un antiguo tesoro. El bosque encantado, las monta\u00f1as de fuego, las cavernas oscuras y el desierto infinito eran los escenarios de su aventura. Despu\u00e9s de un largo viaje, lleg\u00f3 a la ciudad y descubri\u00f3 que los elfos, enanos, orcos y gnomos la habitaban. Ruronie se uni\u00f3 a ellos para descubrir los secretos de la ciudad y encontrar el tesoro. Juntos enfrentaron temibles enemigos y peligrosas trampas hasta que, al fin, Ruronie encontr\u00f3 el tesoro que buscaba."
+    }
+  ],
+  "created": 1680968550,
+  "id": "cmpl-734zuWRO2GRmzIhIz6AlfaAFQOuiJ",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 208,
+    "prompt_tokens": 248,
+    "total_tokens": 456
+  }
+}

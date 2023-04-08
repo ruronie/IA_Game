@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n\nRespuesta: [{\"id\":1,\"Opcion\":\"Explorar el Desierto Infinito\",\"tipo\":\"explorar\"},{\"id\":2,\"Opcion\":\"Buscar una pelea en el Desierto Infinito\",\"tipo\":\"combate\"},{\"id\":3,\"Opcion\":\"Buscar alg\u00fan tesoro en el Desierto Infinito\",\"tipo\":\"explorar\"}]"
+    }
+  ],
+  "created": 1680964277,
+  "id": "cmpl-733szYag2CDQJ1IURsqTAxUrtTGeF",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 320,
+    "total_tokens": 418
+  }
+}

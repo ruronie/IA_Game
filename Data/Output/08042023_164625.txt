@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\nRuronie, el elfo, viajaba por el Desierto Infinito en busca de aventuras. Se top\u00f3 con una antigua ciudad perdida, llena de tesoros ocultos y misteriosos. Explorando las ruinas, Ruronie descubri\u00f3 una puerta sellada que llevaba a una mazmorra en las Monta\u00f1as de Fuego. Decidido a descubrir el secreto que se escond\u00eda tras la puerta, Ruronie se dirigi\u00f3 hacia la mazmorra. All\u00ed encontr\u00f3 una criatura malvada, un orco, que hab\u00eda estado esperando a alguien como \u00e9l durante a\u00f1os. Ruronie luch\u00f3 con valent\u00eda y habilidad para derrotar al orco y liberar el Bosque Encantado de su malvado hechizo. Ahora, Ruronie es un h\u00e9roe y el Bosque Encantado es un lugar seguro."
+    }
+  ],
+  "created": 1680965178,
+  "id": "cmpl-7347Wr4ToOJbDCl6wEdvQdJPVjrYy",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 248,
+    "prompt_tokens": 247,
+    "total_tokens": 495
+  }
+}
