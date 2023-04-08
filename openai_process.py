@@ -4,7 +4,7 @@ import openai
 import random
 import datetime
 
-OPENAI_APIKEY="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"
+OPENAI_APIKEY="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"
 
 def guardarPeticion(text):
     # Obtener la fecha y hora actual

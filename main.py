@@ -5,7 +5,7 @@ from Personaje import Personaje
 import game_lib
  
 
-OPENAI_APIKEY="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"
+
 
 
 
@@ -37,7 +37,7 @@ El contexto es el siguiente:
 #     {"role": "user", "content": question1},
 # ]
 game_lib.imprimir_lentamente("Iniciando partida...")
-result=openai_process.getResultsOpenai(text,OPENAI_APIKEY)
+result=openai_process.getResultsOpenai(text)
 text = result['choices'][0]['text']
 game_lib.imprimir_lentamente(text)
 
